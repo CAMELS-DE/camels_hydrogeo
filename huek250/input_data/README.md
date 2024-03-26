@@ -20,4 +20,12 @@ Seven hydrogeological attributes are recorded:
 - Stratigraphy
 
 ## Data retrieval for this repository
-Through a WMS with the script `00_download_huek250.py`.
+- Download the shapefile from [here](https://download.bgr.de/bgr/grundwasser/huek250/shp/huek250.zip) (direct link), or by clicking on the link "HÜK250 als SHP-Datei" on the website: https://www.bgr.bund.de/DE/Themen/Wasser/Projekte/laufend/Beratung/Huek200/huek200_projektbeschr.html?nn=1546496#:~:text=H%C3%9CK250%20als%20SHP%2DDatei
+- Extract the .zip file
+
+## Quellennachweis
+Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & Staatliche Geologische Dienste (SGD):
+Hydrogeologische Übersichtskarte von Deutschland 1:250.000 (HÜK250). Digitaler Datenbestand,
+Version 1.0.3 (2019) - Hannover.
+Bei jeglicher Verwendung der Daten in analoger oder digitaler Form ist an deutlich sichtbarer Stelle
+auf die Datenquelle wie folgt hinzuweisen: HÜK250 © BGR & SGD 2019
