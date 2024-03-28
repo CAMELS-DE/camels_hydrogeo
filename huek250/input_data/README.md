@@ -1,8 +1,8 @@
 # HÜK250 - Hydrogeological overview map of Germany 1:250,000
 
-https://www.bgr.bund.de/DE/Themen/Wasser/Projekte/laufend/Beratung/Huek200/huek200_projektbeschr.html?nn=1546496
-
 ## Description
+
+*from: https://www.bgr.bund.de/DE/Themen/Wasser/Projekte/laufend/Beratung/Huek200/huek200_projektbeschr.html?nn=1546496*
 
 Project status: 11.06.2022
 
@@ -21,9 +21,9 @@ Seven hydrogeological attributes are recorded:
 
 ## Data retrieval for this repository
 - Download the shapefile from [here](https://download.bgr.de/bgr/grundwasser/huek250/shp/huek250.zip) (direct link), or by clicking on the link "HÜK250 als SHP-Datei" on the website: https://www.bgr.bund.de/DE/Themen/Wasser/Projekte/laufend/Beratung/Huek200/huek200_projektbeschr.html?nn=1546496#:~:text=H%C3%9CK250%20als%20SHP%2DDatei
-- Extract the .zip file
+- Extract the .zip file in the `input_data` folder
 
-## Quellennachweis
+## Citation
 Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) & Staatliche Geologische Dienste (SGD):
 Hydrogeologische Übersichtskarte von Deutschland 1:250.000 (HÜK250). Digitaler Datenbestand,
 Version 1.0.3 (2019) - Hannover.
