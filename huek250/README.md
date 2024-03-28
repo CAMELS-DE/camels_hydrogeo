@@ -1,5 +1,7 @@
 # HUEK250
 
+## Description
+
 Dockerized tool to extract and process data from the HUEK250 shapefile for CAMELS-DE.  
 A folder is created in the `output_data` folder for the results of each catchment, in which a .csv file is saved for each of the superclasses with the variables listed below. In addition, plots of the superclasses in the catchment area are also generated. Extracted variables are copied to the camelsp `output_data` directory, where other tools process the data further and organize it in the folder structure.
 
