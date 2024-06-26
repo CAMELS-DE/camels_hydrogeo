@@ -1,0 +1,23 @@
+tools:
+  hydrogeology_attributes_huek:
+    title: HUEK250 Hydrology Attributes for CAMELS-DE
+    description: Process HUEK250 data to extract hydrogeology attributes for CAMELS-DE.
+    version: 0.1
+    parameters:
+      id_field_name:
+        example: "gauge_id"
+        type: string
+        description: Property name in the catchments file that contains the CAMELS-DE catchment IDs.
+    data:
+      huek:
+        example: in/huek250/huek250_v103/shp/huek250__25832_v103_poly.shp
+        extension: 
+         - .shp
+        description: HUEK250 hydrogeological data, see instructions in in/README.md.
+      catchments:
+        example: in/catchments.gpkg
+        extension:
+         - .gpkg
+         - .geojson
+         - .shp
+        description: Geometry file containing catchments for which to extract hydrogeology attributes.
