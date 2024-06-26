@@ -1,0 +1,11 @@
+{
+    "hydrogeology_attributes_huek": {
+        "parameters": {
+            "id_field_name": "id"
+        },
+        "data": {
+            "huek": "/in/huek250/huek250_v103/shp/huek250__25832_v103_poly.shp",
+            "catchments": "/in/catchments.gpkg"
+        }
+    }
+}
